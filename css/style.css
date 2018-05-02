@@ -1,0 +1,59 @@
+.header {
+	background-color: #f6f2f2;
+	height: 690px;
+}
+li.nav-links {
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 20px;
+}
+nav {
+	margin-top: 30px;
+}
+.menu {
+	text-align: center;
+	background-color: #313030;
+	
+}
+.top-header {
+	
+}
+.mid-header {
+	margin-top: 80px;
+	margin-bottom: 00px;
+}
+.main-video {
+	background-color: #c4c0b1;
+	text-align: center;
+	width: 550px;
+	height: 355px;	
+}
+img.play-img {
+	display: inline-block;
+	margin: 130px;
+}
+.products {
+	text-align: center;
+}
+.products-item {
+	margin-bottom: 20px;
+}
+.products-img {
+	width: 270px;
+	height: 270px;
+}
+.sm-team-img {
+	width: 170px;
+	height: 165px;
+	margin-top: 245px;
+}
+.big-team-img {
+	width: 320px;
+	height: 460px;
+}
+.action {
+	text-align: center;
+}
+.form-inline {
+	margin: 0 auto ;
+}
